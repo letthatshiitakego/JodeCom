@@ -221,7 +221,7 @@ Project Link: [https://github.com/letthatshiitakego/JodeCom](https://github.com/
 [issues-shield]: https://img.shields.io/github/issues/letthatshiitakego/JodeCom.svg?style=for-the-badge
 [issues-url]: https://github.com/letthatshiitakego/JodeCom/issues
 [license-shield]: https://img.shields.io/github/license/letthatshiitakego/JodeCom.svg?style=for-the-badge
-[license-url]: https://github.com/letthatshiitakego/JodeCom/blob/master/LICENSE.txt
+[license-url]: https://github.com/letthatshiitakego/JodeCom/blob/master/LICENSE.md
 [twitter-shield]: https://img.shields.io/badge/-Twitter-blue.svg?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/maikhaihuy
 [product-screenshot]: images/screenshot.png
